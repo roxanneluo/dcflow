@@ -35,3 +35,6 @@ See ``matlab/demo.m``
 - Version 0.1, 2017-07-20
 
  	Includes feature embedding code/models, 4-D cost volume construction and processing, and forward-backward consistency checking. Part of poster-processing (EpicFlow inpainting, homography fitting) can not be included due to license issues. We expect to release them in future versions. You may download the EpicFlow code (or other inpainting code), and replace the match file with our output to obtain a dense optical flow filed.
+
+## My Usage 
+>> demo_all
